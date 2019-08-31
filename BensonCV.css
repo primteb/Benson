@@ -1,0 +1,34 @@
+/* This is the css part of my resume building*/
+/*give the body element of the resume a light blue background*/
+
+div {
+	border-radius: 5px;
+}
+
+
+body{
+    background-color: rgb(170, 170, 187);
+}
+
+/* change the h1 to have a 1px solid black border*/
+
+h1{
+    border: 1px solid black;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+    color: #ffffff;
+    
+    #name{
+        float:left;
+        margin-left: 5px;
+        padding-top: 5px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+    }
