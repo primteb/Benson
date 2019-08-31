@@ -6,4 +6,5 @@ For more information about my journey so far CSS:
 
 https://lucid.blog/primteb/post/css-has-made-html-so-much-better-d8c
 
+Thank you
 
